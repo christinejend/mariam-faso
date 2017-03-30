@@ -28,5 +28,6 @@ add page ->Voyage planifié
   
   * Marche 
   * Souper/Spectacle (heure, add, inscription, menu, avec aside sur le spectacle en question)
-  * Vente
+  * Mise en vente
+  * Collecte
   * Réunions d'info
